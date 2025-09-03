@@ -82,7 +82,7 @@ I've also included `micro` for friendly terminal editor and `alsamixer` so you c
 
 ## Desktop Env 
 
-- KDE because it's beautiful and reliable. (Wayland + x11 enabled)
+- KDE because it's beautiful and reliable.
 > Also has many essentials pre-installed and is still relatively light (2.5GB/3GB Total with Wallpapers)
 > Much lighter on alpine (example BSD default KDE: 7.5Gb)
 
